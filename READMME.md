@@ -59,3 +59,10 @@ nav{
     justify-content:center;
 }
 ```
+## Check list 
+-[x]home
+-[x]house
+-[]hotel
+
+## link
+CSS framework[W3school](https://www.w3schools.com/css/default.asp#gsc.tab=0&gsc.q=link%20icons)
